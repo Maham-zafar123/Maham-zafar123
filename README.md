@@ -189,9 +189,9 @@ Built a Deep Learning model capable of recognizing human facial expressions from
 
 # 🤝 Connect With Me
 
-- 💼 LinkedIn: **https://linkedin.com/in/YOUR_LINKEDIN**
+- 💼 LinkedIn: **https://linkedin.com/in/maham-zafar-84695726b/**
 - 💻 GitHub: **https://github.com/Maham-zafar123**
-- 📧 Email: **YOUR_EMAIL**
+- 📧 Email: **mahamzafar231@gmail.com**
 
 ---
 
