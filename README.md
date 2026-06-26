@@ -170,16 +170,24 @@ Developed a Deep Learning model capable of detecting and classifying facial expr
 - 📈 Machine Learning Classification Models
 - 🌐 AI-based Web Applications
 
+
+
+
 # 💻 Technical Skills
 
-## Programming Languages
+## 🚀 Programming Languages
 
 - Python
 - SQL
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript (Basic)
 
 ---
 
-## Artificial Intelligence
+## 🤖 Artificial Intelligence
 
 - Generative AI
 - Machine Learning
@@ -187,31 +195,131 @@ Developed a Deep Learning model capable of detecting and classifying facial expr
 - Large Language Models (LLMs)
 - Prompt Engineering
 - Retrieval-Augmented Generation (RAG)
+- AI Agents (Learning)
+- Natural Language Processing (NLP)
 - Computer Vision
-- Natural Language Processing
+- Text Classification
+- Emotion Recognition
+- Facial Expression Recognition
+- Document Intelligence
 
 ---
 
-## Libraries & Frameworks
+## 📚 Machine Learning & Deep Learning
+
+- Supervised Learning
+- Classification
+- Regression
+- Decision Trees
+- Neural Networks
+- CNNs
+- Model Evaluation
+- Feature Engineering
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+
+---
+
+## 🧠 Generative AI
+
+- Google Gemini API
+- Prompt Engineering
+- Multi-document AI Systems
+- AI-powered Question Answering
+- AI Summarization
+- Semantic Search
+- Vector Embeddings
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+## 📊 Data Science
+
+- Pandas
+- NumPy
+- Matplotlib
+- Data Cleaning
+- Data Visualization
+- Statistical Analysis
+- Feature Extraction
+
+---
+
+## 📄 Document Processing
+
+- PyMuPDF
+- python-docx
+- python-pptx
+- PDF Processing
+- Text Chunking
+- Document Parsing
+
+---
+
+## 🌐 Frameworks & Libraries
 
 - Streamlit
 - TensorFlow
 - Scikit-learn
+- OpenCV
 - Pandas
 - NumPy
-- OpenCV
 - Matplotlib
+- ReportLab
+- python-dotenv
 
 ---
 
-## Tools
+## 🔍 AI & NLP Concepts
+
+- Semantic Search
+- Text Embeddings
+- Similarity Search
+- Information Retrieval
+- Text Summarization
+- Question Answering
+- Knowledge Base Construction
+
+---
+
+## 🛠️ Software Engineering
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Software Design Principles
+- Debugging
+- API Integration
+- Modular Programming
+- File Handling
+
+---
+
+## 💾 Databases
+
+- SQLite
+- MySQL
+
+---
+
+## ⚙️ Developer Tools
 
 - Git
 - GitHub
 - VS Code
 - Jupyter Notebook
+- Google Colab
+- PyCharm
 
 ---
+
+## 📈 Currently Exploring
+
+- LangGraph
+- CrewAI
+- AI Agents
+- Multi-Agent Systems
+- MLOps
+- Advanced RAG
 
 # 🏆 Achievements
 
