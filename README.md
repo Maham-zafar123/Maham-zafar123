@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Maham Zafar</h1>
 
-<h3 align="center">🚀 Generative AI Engineer | AI/ML Engineer | Python Developer | Software Engineering Graduate</h3>
+<h3 align="center">🚀 Generative AI Engineer | AI/ML Engineer | Python Developer | Software Engineer</h3>
 
 <p align="center">
 Passionate about building intelligent AI applications using <b>Generative AI, Machine Learning, Deep Learning, Computer Vision, NLP, and Large Language Models (LLMs)</b>. I enjoy solving real-world problems through AI and continuously learning emerging technologies.
