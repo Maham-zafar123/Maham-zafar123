@@ -63,48 +63,112 @@ Passionate about building intelligent AI applications using <b>Generative AI, Ma
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured AI Projects
+
+---
 
 ## 🧠 DocuMind AI
+### Intelligent Multi-Document Analysis using Generative AI & Retrieval-Augmented Generation (RAG)
 
-An intelligent multi-document analysis platform powered by **Google Gemini** and **Retrieval-Augmented Generation (RAG)**.
+Developed an AI-powered document analysis platform that enables users to upload multiple documents and interact with them using natural language. The application leverages **Google Gemini** and **Retrieval-Augmented Generation (RAG)** to deliver accurate, context-aware responses.
 
-### Features
+### ✨ Key Features
 
-- 📂 Multi-document Upload
-- 💬 AI Question Answering
-- 📑 AI Summarization
-- ⚖️ Document Comparison
-- 📝 Quiz Generation
+- 📂 Multi-document Upload (PDF, DOCX, PPTX & TXT)
+- 💬 AI-powered Question Answering
+- 📑 Intelligent Document Summarization
+- ⚖️ Multi-document Comparison
+- 📝 AI Quiz Generation
 - 🎴 Flashcard Generation
 - 📄 PDF Report Generation
-- 🌗 Dark & Light Mode
+- 🌗 Modern Light & Dark Theme
 
-**Tech Stack**
+**🛠 Tech Stack**
 
-`Python` `Streamlit` `Google Gemini` `RAG` `NLP`
+`Python` • `Streamlit` • `Google Gemini` • `RAG` • `NLP`
+
+---
+
+## 📚 AI Research Assistant
+
+An intelligent AI-powered research assistant designed to simplify academic research by searching, organizing, analyzing, and understanding research papers using Large Language Models.
+
+### ✨ Key Features
+
+- 📖 Research Paper Analysis
+- 🔍 Semantic Search
+- 📑 Literature Review Assistance
+- 🧠 AI-powered Question Answering
+- 📌 Key Concept Extraction
+- 📚 Multi-document Understanding
+
+**🛠 Tech Stack**
+
+`Python` • `Google Gemini` • `LLMs` • `Streamlit` • `NLP`
+
+---
+
+## 📄 AI Research Paper Summarizer
+
+Developed an AI application that automatically summarizes research papers into concise, easy-to-understand insights using Generative AI and Large Language Models.
+
+### ✨ Key Features
+
+- 📑 Executive Summary Generation
+- 📌 Key Findings Extraction
+- 🔬 Methodology Summary
+- ⚠️ Limitations Detection
+- 💡 Contributions Overview
+- 📋 Bullet-Point Summary
+
+**🛠 Tech Stack**
+
+`Python` • `Google Gemini` • `LLMs` • `NLP`
 
 ---
 
 ## 😊 Emotion Recognition using Large Language Models
 
-Developed a text emotion recognition system using LLMs and prompt engineering techniques.
+Built an emotion recognition system that analyzes textual input and accurately classifies emotions using prompt engineering and Large Language Models.
 
-**Tech Stack**
+### ✨ Key Features
 
-`Python` `LLMs` `NLP`
+- 😊 Emotion Detection
+- 📊 Text Classification
+- 🤖 LLM-based Prediction
+- 📈 Emotion Analysis
+
+**🛠 Tech Stack**
+
+`Python` • `LLMs` • `Prompt Engineering` • `NLP`
 
 ---
 
 ## 😀 Facial Expression Recognition
 
-Built a Deep Learning model capable of recognizing human facial expressions from images.
+Developed a Deep Learning model capable of detecting and classifying facial expressions from images using Computer Vision techniques.
 
-**Tech Stack**
+### ✨ Key Features
 
-`Python` `TensorFlow` `OpenCV`
+- 😀 Facial Emotion Recognition
+- 📷 Image Processing
+- 🧠 Deep Learning Prediction
+- 👁️ Computer Vision
+
+**🛠 Tech Stack**
+
+`Python` • `TensorFlow` • `OpenCV` • `Deep Learning`
 
 ---
+
+## 💡 Other AI & Software Projects
+
+- 🤖 AI Interview Coach (Generative AI)
+- 📝 Text Emotion Recognition using LLMs
+- 📊 Exploratory Data Analysis Projects
+- 🐍 Python Automation Scripts
+- 📈 Machine Learning Classification Models
+- 🌐 AI-based Web Applications
 
 # 💻 Technical Skills
 
