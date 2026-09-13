@@ -12,7 +12,7 @@ Passionate about building intelligent AI applications using <b>Generative AI, Ma
 
 - 🎓 **Bachelor of Software Engineering**
   - University of Engineering and Technology (UET), Taxila
-  - **CGPA: 3.67 / 4.00**
+  - **CGPA: 3.68 / 4.00**
 
 - 🥉 **Secured 3rd Position** in **F.Sc. (Pre-Engineering)** under the **Board of Intermediate and Secondary Education (BISE), Multan**
 
